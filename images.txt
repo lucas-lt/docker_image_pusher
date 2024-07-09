@@ -2,5 +2,16 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+imsyy/dailyhot-api:latest
+imsyy/home:latest
+imsyy/DailyHot:latest
+imsyy/Snavigation:latest
+imsyy/SPlayer:latest
+imsyy/NeteaseCloudMusicApi:latest
+imsyy/yisier/nps:latest
+figro/unraid-cloudflared-tunnel
+jlesage/nginx-proxy-manager
+monlor/docker-xiaoya
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
